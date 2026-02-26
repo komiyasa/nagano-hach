@@ -242,6 +242,42 @@ nagano-hach/
 
 ---
 
+## 👤 発起人プロフィール
+
+### 宮坂 航亮（Kosuke Miyasaka）
+
+| 所属 | 役職 |
+|------|------|
+| **日本マイクロソフト株式会社** | Cloud Specialist App Innovation |
+| **株式会社スターク・インダストリーズ** | Chief Technology Officer |
+| **地元IT研究所** | 個人事業 |
+| **合同会社信州グローバルブリッジ** | 設立予定 |
+
+#### 経歴
+
+大学院を卒業後、日本マイクロソフト株式会社にてフィールドエンジニアとして、日系大手企業のアジャイル開発やクラウド導入を支援。その後アプリケーションデベロップメントマネジャーとしてDevOpsやクラウドネイティブの導入支援をリード。
+
+現在はソリューションスペシャリストとして、アプリモダナイゼーションの価値をクラウドネイティブ、DevOpsの視点で多くのお客様へ広げている。最近は多くの生成AIプロジェクトをリード。DevOps導入やクラウドのAIサービスを用いたアプリケーション開発が得意。
+
+トヨタ自動車様の事例を中心にAgentプロジェクト推進のリーダーとして、**2025年度 Microsoft Pinnacle Award受賞**。
+
+#### 地方創生への想い
+
+長野県の温泉街出身ということから、地元×ITに興味をもち、地方自治体に対する講演や地方中小企業のIT導入支援も実施している。
+
+#### 関連記事
+
+- [トヨタ自動車、エンジニアの知見を AI エージェントで継承へ ― 競争力強化に向け革新的な取り組みを開始](https://news.microsoft.com/ja-jp/2025/05/19/250519-toyota-ai-agent/)
+- [ウーブン・バイ・トヨタが生成AIを車載ソフトウェア「MISRA」準拠に活用、コード修正の約 80％ を自動化](https://news.microsoft.com/ja-jp/2024/11/19/241119-woven-by-toyota/)
+- [トヨタコネクティッドは、新たな事業の種として 生成AI を用いた音声ラジオシステムを構築](https://news.microsoft.com/ja-jp/2024/03/26/240326-toyota-connected-and-genarative-ai/)
+
+#### リンク
+
+[![GitHub](https://img.shields.io/badge/GitHub-komiyasa-181717?logo=github)](https://github.com/komiyasa)
+[![Qiita](https://img.shields.io/badge/Qiita-Komiyasa-55C500?logo=qiita)](https://qiita.com/Komiyasa)
+
+---
+
 <p align="center">
   <strong>🏔 長野から世界へ、世界から長野へ 🌏</strong><br>
   <em>Built with ❤️ for Nagano</em>
