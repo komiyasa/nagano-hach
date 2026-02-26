@@ -205,44 +205,7 @@ graph TD
 
 ---
 
-## 📂 リポジトリ構成
-
-```
-nagano-hach/
-├── README.md              # 本ドキュメント
-├── docs/                  # 提案資料・補足ドキュメント
-│   ├── proposal.md        # 県庁向け提案書
-│   ├── kpi-framework.md   # KPI設計フレームワーク
-│   └── timeline.md        # 実施スケジュール
-├── sessions/              # セッション資料
-│   ├── roundtable/        # ラウンドテーブル関連
-│   ├── ai-industry/       # AI×産業セッション
-│   └── mentoring/         # メンタリング制度
-└── events/                # イベント企画
-    └── nagano-global-day/ # NAGANO GLOBAL DAY
-```
-
----
-
-## 🤝 コントリビューション
-
-このプロジェクトに共感いただける方、特に：
-
-- 長野県出身のテック業界で働く方
-- 地方創生・教育に関心のある方
-- 長野県の行政・教育関係者の方
-
-ぜひ Issue や Pull Request でご参加ください。
-
----
-
-## 📬 コンタクト
-
-プロジェクトに関するお問い合わせは Issue にてお願いします。
-
----
-
-## 👤 発起人プロフィール
+##  発起人プロフィール
 
 ### 宮坂 航亮（Kosuke Miyasaka）
 
