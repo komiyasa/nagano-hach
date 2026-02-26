@@ -230,9 +230,9 @@ graph TD
 
 #### 関連記事
 
-- [トヨタ自動車、エンジニアの知見を AI エージェントで継承へ ― 競争力強化に向け革新的な取り組みを開始](https://news.microsoft.com/ja-jp/2025/05/19/250519-toyota-ai-agent/)
-- [ウーブン・バイ・トヨタが生成AIを車載ソフトウェア「MISRA」準拠に活用、コード修正の約 80％ を自動化](https://news.microsoft.com/ja-jp/2024/11/19/241119-woven-by-toyota/)
-- [トヨタコネクティッドは、新たな事業の種として 生成AI を用いた音声ラジオシステムを構築](https://news.microsoft.com/ja-jp/2024/03/26/240326-toyota-connected-and-genarative-ai/)
+- [トヨタ自動車、エンジニアの知見を AI エージェントで継承へ ― 競争力強化に向け革新的な取り組みを開始](https://news.microsoft.com/ja-jp/features/241120-toyota-is-deploying-ai-agents-to-harness-the-collective-wisdom-of-engineers-and-innovate-faster/)
+- [ウーブン・バイ・トヨタが生成AIを車載ソフトウェア「MISRA」準拠に活用、コード修正の約 80％ を自動化](https://www.microsoft.com/ja-jp/customers/story/23667-woven-by-toyota-co-ltd-azure)
+- [トヨタコネクティッドは、新たな事業の種として 生成AI を用いた音声ラジオシステムを構築](https://www.microsoft.com/ja-jp/customers/story/23110-toyota-connected-azure)
 
 #### リンク
 
